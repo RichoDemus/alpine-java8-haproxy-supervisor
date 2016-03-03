@@ -1,1 +1,1 @@
-docker build -t richodemus/alpine-oraclejdk8-haproxy-supervisor:v1 -t richodemus/alpine-oraclejdk8-haproxy-supervisor:latest .
+docker build -t richodemus/alpine-oraclejdk8-haproxy-supervisor:v2 -t richodemus/alpine-oraclejdk8-haproxy-supervisor:latest .
